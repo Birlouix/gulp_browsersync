@@ -1,5 +1,5 @@
 {
-  "name": "browsersync",
+  "name": "gulp_workflow",
   "version": "0.0.1",
   "description": "",
   "main": "index.html",
@@ -9,7 +9,10 @@
   },
   "devDependencies": {
     "browser-sync": "^2.24.7",
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1"
   },
   "keywords": [
     "browserSync"
